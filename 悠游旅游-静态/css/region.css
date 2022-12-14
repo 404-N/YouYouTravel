@@ -1,0 +1,212 @@
+.banner{
+    margin: 56px auto 50px;
+}
+.banner_img{
+    position: relative;
+    height: 560px;
+    width: 970px;
+    background: url(../image/region/banner.jpg);
+}
+.dot{
+    bottom: 22px;
+    right: 30px;
+}
+.dot .item1{
+    margin: 0 15px;
+}
+.banner .continent{
+    background-color: #666666;
+    line-height: 65px;
+    padding: 16px 44px;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+}
+.banner .continent li{
+    border-bottom: 1px #b2b2b2 solid;
+}
+.banner .continent li:last-child{
+    border-bottom: none;
+}
+.blue{
+    color: #5696ff;
+}
+h6{
+    font-weight:normal
+}
+.wrap .hot{
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+.wrap .hot ul{
+    margin-top: 26px;
+    padding: 46px 30px;
+    background-color: #fff;
+    border: 1px #dcdcdc solid ;
+    overflow: hidden;
+}
+.wrap .hot li,.all_guide li{
+    float: left;
+    margin-right: 34px;
+    color: #fff;
+    font-size: 18px;
+}
+.wrap .hot li:last-child,.all_guide li:last-child{
+    margin-right: 0;
+}
+.wrap .pic{
+    padding: 24px 0 0 9px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    border: solid #fff;
+    border-width: 11px 8px;
+    box-shadow: 0 0 5px 5px rgb(225, 225, 225);
+}
+.wrap .pic p{
+    line-height: 32px;
+}
+.wrap .hot .pic{
+    width: 175px;
+    height: 234px;
+}
+.wrap .hot .japan{
+    background-image: url(../image/region/Japan.jpg);
+    background-position:center center;
+}
+.wrap .hot .germany{
+    background-image: url(../image/region/Germany.jpg);
+    background-position:-90px center;
+}
+.wrap .hot .russia{
+    background-image: url(../image/region/Russia.jpg);
+    background-position:-130px center;
+}
+.wrap .hot .newZealand{
+    background-image: url(../image/region/NewZealand.jpg);
+    background-position:-40px center;
+}
+.wrap .hot .melbourne{
+    background-image: url(../image/region/Melbourne.jpg);
+}
+.wrap .hot .pic p:last-child,.wrap .hot li>p,
+.wrap .all_guide .pic p:last-child,.wrap .all_guide li>p{
+    font-size: 20px;
+}
+.wrap .hot li>p{
+    color: #5696ff;
+    margin: 20px 0;
+}
+.wrap .hot .download{
+    width: 200px;
+    height: 40px;
+    background-color: #5696ff;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+}
+.wrap .message h6{
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.wrap .message img{
+    width: 38px;
+    height: 38px;
+    vertical-align: middle;
+    margin-right: 12px;
+    border-radius: 50%;
+}
+.wrap .message p{
+    line-height: 48px;
+}
+.wrap .message span{
+    color: #5696ff;
+}
+.wrap .message .collect{
+    width: 314px;
+    height: 140px;
+    margin-top: 36px;
+    padding: 60px 0 0 36px;
+    font-size: 28px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: 314px auto;
+    background-position:center;
+    background-image: url(../image/region/guide.jpg);
+}
+.wrap .all_guide{
+    width: 812px;
+    font-size: 18px;
+}
+.wrap .all_guide h6{
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+.wrap .all_guide span{
+    margin-right: 10px;
+}
+.wrap .all_guide ul{
+    overflow: hidden;
+}
+.wrap .all_guide li{
+    float: left;
+    margin: 24px 30px 0 0;
+}
+.wrap .all_guide .image li:nth-child(4n){
+    margin-right: 0;
+}
+.wrap .all_guide .sydney{
+    background-image: url(../image/region/Sydney.jpg);
+}
+.wrap .all_guide .singapore{
+    background-image: url(../image/region/Singapore.jpg);
+}
+.wrap .all_guide .milan{
+    background-image: url(../image/region/Milan.jpg);
+}
+.wrap .all_guide .italy{
+    background-image: url(../image/region/Italy.jpg);
+}
+.wrap .all_guide .india{
+    background-image: url(../image/region/India.jpg);
+}
+.wrap .all_guide .china{
+    background-image: url(../image/region/China.jpg);
+}
+.wrap .all_guide .denmark{
+    background-image: url(../image/region/Denmark.jpg);
+}
+.wrap .all_guide .thailand{
+    background-image: url(../image/region/Thailand.jpg);
+}
+.wrap .all_guide .america{
+    background-image: url(../image/region/America.jpg);
+}
+.wrap .all_guide .holland{
+    background-image: url(../image/region/Holland.jpg);
+}
+.wrap .all_guide .france{
+    background-image: url(../image/region/France.jpg);
+}
+.wrap .all_guide .thailand{
+    background-image: url(../image/region/Thailand.jpg);
+}
+.wrap .all_guide .pic{
+    width: 155px;
+    height: 216px;
+    background-position:center center;
+}
+.wrap .all_guide li>p{
+    color: #5696ff;
+    margin: 15px 0 8px;
+}
+.wrap .all_guide .time{
+    color: #000;
+    font-size: 16px;
+}
+.wrap .all_guide .paging{
+    margin: 80px 0 68px;
+}
+.wrap .all_guide .paging li{
+    color: #898989;
+    margin: 0 19px;
+}

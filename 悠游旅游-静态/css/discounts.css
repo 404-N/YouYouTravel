@@ -1,0 +1,151 @@
+.banner{
+    position: relative;
+    margin-top: 54px;
+    height: 350px;
+    background: url(../image/discounts/banner.jpg);
+}
+.banner .theme{
+    width: 260px;
+    height: 80px;
+    margin-top: 232px;
+    background-color: #5696ff;
+    color: #fff;
+    font-size: 17px;
+    line-height: 23px;
+}
+.banner .theme p{
+    margin-top: 19px;
+    font-size: 12px;
+}
+.banner .theme p:first-child{
+    font-size: 45px;
+    line-height: 80px;
+    margin: 0 10px 0 22px;
+}
+.banner .details{
+    width: 204px;
+    color: #fff;
+    text-align: center;
+}
+.banner .details .title{
+    font-size: 34px;
+    margin: 24px 0 8px;
+}
+.banner .details .barcode{
+    margin: 28px 0 54px;
+}
+.banner .details .text{
+    width: 142px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #f3f3f3;
+    color: #000;
+    line-height: 30px;
+    border-radius: 5px;
+}
+.banner .details .direction{
+    margin: 14px 0;
+}
+.banner .details .import{
+    width: 140px;  
+    margin: 0 auto;
+}
+.banner .details .import input{
+    width: 111px;
+    line-height: 30px;
+    border: 0;
+    border-radius: 5px 0 0 5px;
+    background-color: #f3f3f3;
+}
+.banner .details .import .search{
+    width: 29px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 0 5px 5px 0;
+    background-color: #5696ff;
+}
+.wrap{
+    margin: 62px auto 74px;
+}
+.wrap .content li, .wrap .hot li{
+    overflow: hidden;
+    border-bottom: 1px solid #e9e9e9;
+}
+.wrap .content li{
+    padding: 50px 0;
+}
+.wrap .content li:first-child{
+    padding-top: 0;
+}
+.wrap .content img{
+    float: left;
+    margin-right:28px
+}
+.wrap .content .details{
+    width: 512px;
+    float: left;
+}
+.wrap .content .details .sale{
+    font-size: 14px;
+    color: #5696ff;
+}  
+.wrap .content .details .text{
+    margin-top: 12px;
+    font-size: 22px;
+}
+.wrap .content .details .time{
+    margin: 16px 0;
+}
+.wrap .content .details div{
+   overflow: hidden;
+}
+.wrap .content .details .price{
+    float: left;
+    font-size: 36px;
+    color: #eb4c4d;
+}
+.wrap .details .button{
+    float: right;
+    width: 140px;
+    height: 50px;
+    border: 1px solid #5696ff;
+    color: #5696ff;
+    line-height: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.wrap .paging{
+    margin-top: 78px;
+}
+.wrap .paging li{
+    float: left;
+    margin: 0 20px;
+}
+.wrap .hot .title{
+    height: 46px;
+    margin-bottom: 17px;
+    border: 1px solid #5696ff;
+    text-align: center;
+    line-height: 46px;
+}
+.wrap .hot li{
+    padding: 20px 0 18px;
+}
+.wrap .hot img{
+    float: left;
+    margin-right: 19px;
+}
+.wrap .hot .details{
+    float: left;
+}
+.wrap .hot .text{
+    width: 166px;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.wrap .hot .price{
+    font-size: 14px;
+    color: rgb( 235, 76, 77 );
+}
+  

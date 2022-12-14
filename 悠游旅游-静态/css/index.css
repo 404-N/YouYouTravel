@@ -1,0 +1,383 @@
+.banner{
+    position: relative;
+    height: 600px;
+    margin: 0 auto;
+    background: url(../image/index/bg_picture.jpg) no-repeat center;
+}
+.dot{
+    left:50%;
+    bottom: 28px;
+    margin-left: -27px;
+}
+.wrap{
+    margin: 70px 0 65px;
+}
+.search{
+    position: relative;
+    width: 350px;
+    margin: 0 auto;
+}
+.search input{
+    width: 350px;
+    height: 38px;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    border: #666666 1px solid;
+    box-sizing: border-box;
+}
+.search img{
+    position: absolute;
+    right: 15px;
+    top: 8px;
+}
+.wrap .title {
+    width: 328px;
+    margin: 0 auto  56px;
+}
+.wrap .theme p {
+    font-size: 36px;
+    margin: 0 14px;
+    color: #5696ff;
+}
+.wrap .line{
+    width: 78px;
+    height: 6px;
+    margin-top: 18px;
+    background-color: #666;
+}
+.explain{
+    font-size: 22px;
+    text-align: center;
+    color: #666666;
+    margin-top: 20px;
+}
+.region .pic{
+    height: 373px;
+    width: 118px;
+    float: left;
+    margin-right: 3px;
+}
+.region .sichuan{
+    background: url(../image/index/sichuan.jpg);
+}
+.region .dali{
+    background: url(../image/index/dali.jpg);
+}
+.region .danmark{
+    width: 595px;
+    background: url(../image/index/danmark.jpg);
+    position: relative;
+}
+.region .japan{
+    background: url(../image/index/japan.jpg);
+}
+.region .italy{
+    background: url(../image/index/italy.jpg);
+}
+.region .france{
+    background: url(../image/index/france.jpg);
+    margin-right: 0px;
+}
+.region .shadow{
+    height: 304px;
+    width: 86px;
+    padding: 69px 0 0 32px;
+    background-color: rgba(51,51,51,0.5);
+}
+.region .danmark .shadow{
+    width: 563px;
+}
+.region .shadow p{
+    font-size: 28px;
+    color: #fbfcfd;
+    line-height: 30px;
+}
+.region .shadow .play_item{
+    position: absolute;
+    left: 248px;
+    top: 146px;
+}
+.more{
+    width: 160px;
+    height: 54px;
+    margin: 72px auto 100px;
+    border: #5696ff 2px solid;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    color:#5696ff;
+    font-size: 26px;
+    line-height: 54px;
+}
+.more_blue{
+    color: #fefefe;
+    background-color: #5696ff;
+}
+.discounts .denmark{
+    width: 441px;
+    height: 307px;
+    background: url(../image/index/denmark_t.jpg);
+}
+.discounts .vietnam{
+    width: 441px;
+    height: 307px;
+    background: url(../image/index/vietnam.jpg);
+    margin: 0 8px 8px 8px;
+}
+.discounts .thailand{
+    width: 362px;
+    height: 369px;
+    background: url(../image/index/thailand.jpg);
+}
+.discounts .malaysia{
+    width: 521px;
+    height: 369px;
+    background: url(../image/index/malaysia.jpg);
+    margin: 0 8px;
+}
+.discounts .japan{
+    width: 300px;
+    height: 472px;
+    background: url(../image/index/japan_t.jpg);
+    margin-bottom: 8px;
+    overflow: hidden;
+}
+.discounts .india{
+    width: 300px;
+    height: 204px;
+    background: url(../image/index/india.jpg);
+    overflow: hidden;
+}
+.discounts .content p{
+    font-size: 22px;
+    color: #ffffff;
+    margin: 50px 0 0 60px;
+}
+.discounts .content .vietnam p{
+    margin: 26px 0 28px 36px;
+}
+.discounts .shadow{
+    width: 401px;
+    height: 267px;
+    margin: 20px;
+    background-color: rgba(0,0,0,0.3);
+    border:rgba(255,255,255,0.8) 4px solid ;
+    box-sizing: border-box;
+}
+.discounts .vietnam .price{
+    width: 314px;
+    margin: auto;
+}
+.discounts .vietnam .price .line{
+    width: 90px;
+    height: 4px;
+    background-color: #ffffff;
+}
+.discounts .content .price p {
+    font-size: 26px;
+    margin: 0 23px;
+}
+.information .content_one{
+margin-bottom: 71px;
+}
+.information .content_one .pic{
+    position: relative;
+    height: 745px;
+    background: url(../image/index/sea.jpg);
+    margin-top: 227px;
+    margin-bottom: 50px;
+}
+.information .content_one .pic img{
+    position: absolute;
+    right: 0;
+    top: -139px;
+    border: #f3f3f3 40px solid;
+}
+.information .article .theme{
+    margin-left: 118px;
+}
+.information .article .theme .line{
+    width: 132px;
+    height: 7px;
+    background-color: #666666;
+    margin-bottom: 28px;
+    margin-left: auto;
+}
+.information .article .theme p{
+    font-size: 30px;
+    color: #333333;
+    text-align: right;
+}
+.information .article .detail{
+    width: 560px;
+}
+.information .article .detail p{
+    font-size: 24px;
+    color: #333333;
+    line-height: 48px;
+}
+.retract2{
+    text-indent: 2em;
+}
+.show_more{
+    width: 180px;
+    border: #999999 3px solid;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 26px;
+    color: #333333;
+    text-align: center;
+    line-height: 60px;
+    margin-top: 45px;
+}
+.information .content_two .pic{
+    position: relative;
+    height: 781px;
+    margin-bottom: 50px;
+    background: url(../image/index/road.jpg) no-repeat;
+}
+.information .content_two .pic img{
+    position: absolute;
+    top: 64px;
+    right: 0;
+    border: #f3f3f3 47px solid;
+}
+.information .content_two .article .detail{
+    margin-top: -205px;
+}
+.information .content_two .article .theme{
+    margin-left: 210px;
+}
+.share .content .article_l {
+    width: 730px;
+    height: 960px;
+    color: #fefefe;
+    background: url(../image/index/erhai.jpg) center;
+    box-shadow: 0px 2px 9.8px 0.2px rgb(4 0 0 / 50%);
+}
+.share .content .article_l .shadow{
+    width: 413px;
+    height: 894px;
+    background-color: rgba(0,0,0,0.3);
+    padding: 66px 50px 0 66px;
+    color: #ffffff;
+}
+.share .content .article_l h6{
+    font-size: 24px;
+    color: #5696ff;
+    font-weight:normal
+}
+.share .content .article_l .dali_title{
+    font-size: 24px;
+    line-height: 46px;
+    margin-top: 72px;
+}
+.share .content .article_l .label{
+    font-size: 20px;
+}
+.share .content .article_l .time{
+    text-align: right;
+    margin: 27px 0;
+}
+.share .content .article_l .text{
+    font-size: 18px;
+    line-height: 40px;
+}
+.share .content .article_l .show_more{
+    width: 160px;
+    font-size: 22px;
+    color: #ffffff;
+    margin-top: 111px;
+}
+.share .content .article_r .frame{
+    width: 375px;
+    height: 428px;
+    padding: 34px 34px 0;
+    background-color: #fff;
+    font-size: 12px;
+    box-shadow: 0px 2px 19.6px 0.4px rgb(4 0 0 / 20%);
+}
+.share .content .article_r .frame:nth-child(1){
+    margin-bottom: 32px;
+}
+.share .content .article_r .pic{
+    width: 375px;
+    height: 297px;
+    margin-bottom: 12px;
+    overflow: hidden;
+}
+.share .content .article_r .thailand {  
+    background: url(../image/index/kawakarpo1.jpg);
+    
+}
+.share .content .article_r .kawakarpo {
+    background: url(../image/index/kawakarpo2.jpg);
+}
+.share .content .article_r .frame .label{
+    margin-top: 13px;
+}
+.share .content .article_r .frame span{
+    width: 60px;
+    height: 18px;
+    background-color: rgba(86,150,255,0.5);
+    margin-left: 9px;
+    color: #ffffff;
+    text-align: center;
+}
+.share .article_r .article p:nth-child(2){
+    font-size: 14px;
+    line-height: 30px;
+}
+.share .article_r .article a{
+    color: #5696ff;
+}
+.share .list{
+    position: relative;
+    height: 498px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 19.6px 0.4px rgb(4 0 0 / 20%);
+    margin-top: 45px;
+    padding: 27px 19px 0 19px;
+    box-sizing: border-box;
+}
+.share .list .headline{
+    font-size: 24px;
+    color: #5696ff;
+    margin-bottom: 29px;;
+}
+.share .list .image_list{
+    overflow: hidden;
+}
+.share .list .image_list li{
+    float: left;
+    margin-right: 18px;
+    color: #666666;
+}
+.share .list .image_list li:last-child{
+    margin-right: 0;
+}
+.share .list .image_list .time{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.share .list .image_list .name{
+    font-size: 18px;
+    line-height: 24px;
+}
+.share .list .arrow{
+    position: absolute;
+    top: 218px;
+    width: 52px;
+    height: 50px;
+    background-color: #ffffff;
+}
+.share .list .arrow:first-child{
+    left: 19px;
+}
+.share .list .arrow:last-child{
+    right: 19px;
+}
+.share .list .arrow img{
+    margin-top: 13px;
+    margin-left: 19px;
+}
